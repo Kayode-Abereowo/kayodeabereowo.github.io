@@ -1,31 +1,32 @@
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio Website
 
+## Overview
 
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
+Welcome to my portfolio website hosted on GitHub: [Oluwakayode's Portfolio](https://kayode-abereowo.github.io/kayodeabereowo.github.io/). This website serves as a showcase of my data analysis projects, demonstrating proficiency in SQL, Power BI, Python, and more. Each project is accompanied by a brief description and a link to the GitHub repository or relevant documentation.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Projects
 
-(* = not included)
+### 1. [Bundesliga Data Analysis in Python](https://github.com/Kayode-Abereowo/Bundesliga_players_analysis)
+Explore a Python-based analysis of Bundesliga soccer player data, utilizing Jupyter, matplotlib, and Seaborn for insightful visualizations.
 
-AJ
-aj@lkn.io | @ajlkn
+### 2. [Bundesliga Dataset Power BI Visualization](https://github.com/Kayode-Abereowo/PowerBi-projects/blob/main/Bundesliga_player_data_analysis.pdf)
+Discover a Power BI dashboard offering comprehensive insights into Bundesliga player data, presented in an interactive PDF format.
 
+### 3. [Spaceship Titanic Prediction](https://github.com/Kayode-Abereowo/Spaceship_Titanic_Prediction.)
+Analyze and predict anomalies in the Spaceship Titanic dataset using Python, Jupyter, and scikit-learn.
 
-Credits:
+### 4. [Covid 19 Data Exploration in SQL](https://github.com/Kayode-Abereowo/Covid-Data-Protfolio-Project-Exploratoration-in-SQL/blob/main/SQLQuery_Covid_Death_Vac.sql)
+Dive into the exploration and analysis of a COVID-19 dataset using SQL queries, showcasing skills in joins, CTEs, window functions, and more.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## About Me
 
-	Icons:
-		Font Awesome (fontawesome.io)
+I am an experienced Data Analyst proficient in SQL, Power BI, Excel, and Python. Skilled in extracting insights from data, creating visually impactful reports, and performing advanced data analysis to drive informed decision-making.
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Contact Information
+
+- **Phone:** (+234) 705-9305-807
+- **Email:** [kayabereowo@gmail.com](mailto:kayabereowo@gmail.com)
+- **LinkedIn:** [Oluwakayode Abereowo](https://www.linkedin.com/in/abereowo-oluwakayode/)
+- **GitHub:** [Kayode-Abereowo](https://github.com/Kayode-Abereowo)
+
+Feel free to reach out for collaboration or further inquiries. Thank you for visiting my portfolio!
